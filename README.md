@@ -5,7 +5,7 @@ I'm a **Software Engineer** with a passion for building scalable and high-perfor
 
 - 🌱 Learning: **Golang, AI/ML, or any tech you're exploring**  
 - 💡 Interested in: **Cloud Computing, Web3, System Design**  
-- 💬 Ask me about: **React, Node.js, Next.js, AWS, GraphQL, etc.**  
+- 💬 Ask me about: **React, Node.js, Python, Next.js, AWS, GraphQL, etc.**  
 - 📫 Reach me at: **john.swainson.hol@gmail.com**  
 
 ---
